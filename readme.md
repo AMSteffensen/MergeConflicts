@@ -2,5 +2,6 @@ This is a story about a merge conflict.
 
 The user AMSteffensen writes some story in this readme file.
 
-Then another user is gonna come here and write something, and make changes 
+Then another user is gonna come here and write something, and make changes this
+line into something else. Here i am casuing this conflict!
 to this file that is gonna cause a merge conflict. 
